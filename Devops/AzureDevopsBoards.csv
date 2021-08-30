@@ -1,0 +1,8 @@
+﻿ID,Work Item Type,Title,Assigned To,State,Tags
+"1","User Story","Stabilize the build server",,"New",
+"2","User Story","Create a Git-based workflow",,"New",
+"3","User Story","Create unit tests",,"New",
+"4","User Story","Check code for vulnerabilities",,"New",
+"5","User Story","Check open source code for vulnerabilities and licensing terms",,"New",
+"6","User Story","Move  model data to its own package",,"New",
+"7","User Story","Investigate hosted vs private build servers",,"New",
